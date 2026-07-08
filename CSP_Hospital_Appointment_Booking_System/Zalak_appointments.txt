@@ -1,0 +1,3 @@
+General Physician,Dr. D. Bhatia,Satellite,Satellite Medical Institute,Fri,15:00-15:30
+General Physician,Dr. P. Kumar,Satellite,Satellite Specialty Hospital,16-11-2025,14:00-14:30
+
